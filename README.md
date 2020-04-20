@@ -3,14 +3,14 @@
 Selenium Framework Project for registration to **PHPTRAVEL** website using Java, Maven, TestNG , POM and DDT
 
 
-##Tech Stack
+## Tech Stack
 
--Java
--selenium Webdriver
--Maven
--TestNG
--jason DDT
--Page Object Modeling Design pattern
--dependency of json library
--screenshot
+- Java
+- Selenium Webdriver
+- Maven
+- TestNG
+- jason DDT
+- Page Object Modeling Design pattern
+- Dependency of json library
+- screenshot
 
