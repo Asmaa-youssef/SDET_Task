@@ -1,3 +1,16 @@
 # Selenium Framework __ SDET Task
 
-Selenium Framework Project using Java, Maven, TestNG and POM
+Selenium Framework Project for registration to **PHPTRAVEL** website using Java, Maven, TestNG , POM and DDT
+
+
+##Tech Stack
+
+-Java
+-selenium Webdriver
+-Maven
+-TestNG
+-jason DDT
+-Page Object Modeling Design pattern
+-dependency of json library
+-screenshot
+
