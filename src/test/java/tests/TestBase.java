@@ -35,7 +35,7 @@ public class TestBase {
 		if (ITestResult.FAILURE == result.getStatus()) {
 			TakesScreenshot scr = ((TakesScreenshot) driver);
 			File srcfile = scr.getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(srcfile, new File("C:\\Users\\Omar\\eclipse-workspace-GROOVY\\SEDT\\screenshot\\"+result.getName() + ".png"));
+			FileUtils.copyFile(srcfile, new File("C:\\Users\\Asmaa\\eclipse-workspace-GROOVY\\SEDT\\screenshot\\"+result.getName() + ".png"));
 		}
 	}
 
