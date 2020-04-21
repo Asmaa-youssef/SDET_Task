@@ -12,5 +12,7 @@ Selenium Framework Project for registration to **PHPTRAVEL** website using Java,
 - jason DDT
 - Page Object Modeling Design pattern
 - Dependency of json library
-- screenshot
+- Dependency of junit library
+- Screenshot
+
 
